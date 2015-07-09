@@ -1,0 +1,7 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="JOGL" value="/home/raccoon/Downloads/GLOctree" />
+    <macro name="JOGLGLUGEN" value="/home/raccoon/Downloads/GLOctree" />
+    <macro name="MAVEN_REPOSITORY" value="/home/raccoon/.m2/repository" />
+  </component>
+</application>
