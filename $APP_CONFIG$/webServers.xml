@@ -1,5 +1,10 @@
 <application>
   <component name="WebServers">
+    <option name="servers">
+      <webServer id="ac4a9c63-e2fa-41e6-ab3e-42ee277cffd9" name="frontend" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
     </sftpAdvancedGlobalOptions>
