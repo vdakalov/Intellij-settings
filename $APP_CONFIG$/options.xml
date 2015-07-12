@@ -19,5 +19,6 @@
     <property name="FindSplitterProportion" value="0.25" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="javascript.return.tag" value="return" />
   </component>
 </application>
