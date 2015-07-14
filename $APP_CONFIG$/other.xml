@@ -162,6 +162,10 @@
       </option>
     </recent_templates>
   </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl">
+    <mergeTool value="meld" newValue="meld" />
+    <mergeToolParameters value="%2 %4 %3" />
+  </component>
   <component name="mvcRunTargetHistory">
     <option value="#" />
     <option value="run-script scripts/Browsers.groovy --stacktrace" />
