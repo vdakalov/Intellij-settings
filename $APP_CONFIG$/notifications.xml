@@ -1,11 +1,14 @@
 <application>
   <component name="NotificationConfiguration">
-    <toolWindow group="Debugger messages" />
+    <toolWindow group="Flash app not compiled before launch" />
     <toolWindow group="Find in Path" />
-    <toolWindow group="LiveEdit" />
+    <toolWindow group="Debugger messages" />
+    <toolWindow group="Grails" />
     <toolWindow group="Web Deployment: Remote Host" />
-    <toolWindow group="JavaScript debugger" />
-    <toolWindow group="Grunt Console" />
     <toolWindow group="Vcs Messages" />
+    <toolWindow group="Pub Serve" />
+    <toolWindow group="JavaScript debugger" />
+    <toolWindow group="LiveEdit" />
+    <toolWindow group="Grunt Console" />
   </component>
 </application>
