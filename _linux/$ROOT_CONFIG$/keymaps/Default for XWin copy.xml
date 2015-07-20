@@ -2,15 +2,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt LEFT" />
   </action>
-  <action id="Compare.SameVersion">
-    <keyboard-shortcut first-keystroke="shift alt D" />
-  </action>
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
-  <action id="Console.TableResult.CloneRow" />
-  <action id="DatabaseView.CopyAction" />
-  <action id="DatabaseView.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="control D" />
@@ -24,14 +18,16 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt RIGHT" />
   </action>
-  <action id="GuiDesigner.Duplicate" />
-  <action id="JumpToLastChange" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="control PAGE_DOWN" />
+  </action>
+  <action id="OpenGruntConsole">
+    <keyboard-shortcut first-keystroke="alt F11" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="control PAGE_UP" />
   </action>
+  <action id="RunGulpTask" />
   <action id="SendEOF" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt ENTER" />
@@ -48,7 +44,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt UP" />
   </action>
-  <action id="TagDocumentationNavigation" />
-  <action id="Uml.ShowDiff" />
   <action id="openAssertEqualsDiff" />
 </keymap>

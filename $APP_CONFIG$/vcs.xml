@@ -3,15 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="ssh://git@stash.pp1468.ru:7999/~atlantidu/nymeria.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:Vihtor/spde-remove-control-system.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/BigCityEvents/BigCityEvents.git" />
+          <option name="url" value="https://github.com/vdakalov/matrix-multiply.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
