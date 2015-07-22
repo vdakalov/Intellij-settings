@@ -8,7 +8,6 @@
     <toolWindow group="Vcs Messages" />
     <toolWindow group="Pub Serve" />
     <toolWindow group="JavaScript debugger" />
-    <toolWindow group="LiveEdit" />
-    <toolWindow group="Grunt Console" />
+    <toolWindow group="Common Version Control Messages" />
   </component>
 </application>
