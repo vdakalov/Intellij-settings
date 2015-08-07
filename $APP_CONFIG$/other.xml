@@ -104,6 +104,9 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="DependencyUISettings">
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
   <component name="ExternalResourceManagerImpl">
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
