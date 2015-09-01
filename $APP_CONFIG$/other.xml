@@ -175,8 +175,8 @@
   </component>
   <component name="mvcRunTargetHistory">
     <option value="#" />
-    <option value="dependency-report" />
     <option value="clean" />
+    <option value="dependency-report" />
     <option value="dbm-update" />
     <option value="clean-all" />
     <option value="run-script scripts/Browsers.groovy --stacktrace" />
