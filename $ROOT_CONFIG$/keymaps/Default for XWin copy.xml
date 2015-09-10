@@ -51,4 +51,7 @@
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
   <action id="openAssertEqualsDiff" />
+  <action id="tasks.show.task.description">
+    <keyboard-shortcut first-keystroke="shift control Q" />
+  </action>
 </keymap>
