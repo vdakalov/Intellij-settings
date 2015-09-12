@@ -11,5 +11,6 @@
     <toolWindow group="Grails" />
     <toolWindow group="Pub Serve" />
     <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="Database Navigator" />
   </component>
 </application>
