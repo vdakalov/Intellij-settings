@@ -5,8 +5,8 @@
     <option name="showOccupiedMemory" value="false" />
     <option name="reopenLastProject" value="true" />
     <option name="autoSyncFiles" value="true" />
-    <option name="autoSaveFiles" value="true" />
-    <option name="autoSaveIfInactive" value="true" />
+    <option name="autoSaveFiles" value="false" />
+    <option name="autoSaveIfInactive" value="false" />
     <option name="inactiveTimeout" value="1" />
     <option name="useSafeWrite" value="true" />
     <option name="useDefaultBrowser" value="true" />
