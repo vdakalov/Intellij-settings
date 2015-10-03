@@ -11,8 +11,9 @@
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="Non-Project Files" value="Yellow" />
-    <property name="KEYMAP" value="tab prev&#10;tab next&#10;delete li" />
+    <property name="KEYMAP" value="duplicate&#10;tab prev&#10;tab next&#10;delete li" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/Workspace/beerlife/target/bower_components/angular-ui-router/release/angular-ui-router.js&#10;/home/raccoon/Workspace/beerlife/target/bower_components/angular/angular.js" />
     <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="FindSplitterProportion" value="0.25" />
   </component>
 </application>

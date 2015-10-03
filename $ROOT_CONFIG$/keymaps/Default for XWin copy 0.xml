@@ -3,11 +3,14 @@
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
   <action id="DBNavigator.Actions.DataEditor.DuplicateRecord" />
+  <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
   <action id="Diff.UpdatedFiles" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="control D" />
   </action>
-  <action id="EditorDuplicate" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift control D" />
+  </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
   <action id="FileChooser.GotoDesktop" />
