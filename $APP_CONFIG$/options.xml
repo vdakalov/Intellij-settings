@@ -9,7 +9,7 @@
     <property name="log.debug.categories" value="" />
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
-    <property name="installation.uid" value="18f9f0e8-652e-4598-bbb7-311d158d1ed0" />
+    <property name="installation.uid" value="e70490b7-5ff3-471d-bf9c-9f2569b3728d" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="file.colors.enable.tests" value="Green" />
