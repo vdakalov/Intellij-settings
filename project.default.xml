@@ -46,6 +46,8 @@
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
         <property name="last_opened_file_path" value="$USER_HOME$/Workspace" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="masterDetails">
         <states>
