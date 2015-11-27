@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="cfg" type="Bash" />
       <mapping ext="glsl" type="C++" />
+      <mapping ext="mdl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
