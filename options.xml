@@ -9,16 +9,12 @@
     <property name="log.debug.categories" value="" />
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
-    <property name="installation.uid" value="2bb36260-9ec2-4d01-abd6-8e7c2d3bebf4" />
+    <property name="installation.uid" value="18f9f0e8-652e-4598-bbb7-311d158d1ed0" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="file.colors.enable.tests" value="Green" />
     <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
     <property name="Non-Project Files" value="Yellow" />
     <property name="Tests" value="Green" />
-    <property name="FindSplitterProportion" value="0.25" />
-    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
-    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
-    <property name="javascript.return.tag" value="return" />
   </component>
 </application>
