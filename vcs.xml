@@ -3,11 +3,11 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/vdakalov/matrix-multiply.git" />
+          <option name="url" value="git@bitbucket.org:vdakalov/ecoplastpet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@bitbucket.org:bigcityevents/bce-frontend.git" />
+          <option name="url" value="git@bitbucket.org:vdakalov/rust-strike-webclient.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

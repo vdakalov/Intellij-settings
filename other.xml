@@ -98,8 +98,26 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="DependencyUISettings">
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
   <component name="ExternalResourceManagerImpl">
     <ignored-resource url="tapestry:parameter" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <Redmine shared="false" url="https://redmine.bigcityevents.ru">
+      <option name="APIKey" value="" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <RedmineProject id="-1" identifier="-- from all projects --" />
+      </option>
+      <password>dfdcdfcedfcbdfc1dfcbdfc6dfc5dfdcdf9bdf9bdf98</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>vdakalov</username>
+    </Redmine>
   </component>
   <component name="SelectProjectTemplateSettings">
     <option name="EXPERT_MODE" value="true" />
@@ -119,10 +137,11 @@
   </component>
   <component name="mvcRunTargetHistory">
     <option value="#" />
-    <option value="clean" />
-    <option value="run-script scripts/Browsers.groovy --stacktrace" />
-    <option value="dbm-update" />
     <option value="clean-all" />
+    <option value="clean" />
+    <option value="dependency-report" />
+    <option value="dbm-update" />
+    <option value="run-script scripts/Browsers.groovy --stacktrace" />
     <option value="war" />
     <option value="generate-all *" />
     <option value="generate-all" />
