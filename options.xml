@@ -1,20 +1,19 @@
 <application>
   <component name="PropertiesComponent">
-    <property name="GoToClass.includeLibraries" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="log.debug.categories" value="" />
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
-    <property name="installation.uid" value="18f9f0e8-652e-4598-bbb7-311d158d1ed0" />
+    <property name="WebStorm.multiCaretsEnabled" value="true" />
+    <property name="WebStorm.inlineDebuggerEnabled" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="installation.uid" value="8c5a90d0-4195-4fcc-9f22-bc667fa00234" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="file.colors.enable.non.project" value="Yellow" />
-    <property name="file.colors.enable.tests" value="Green" />
-    <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
     <property name="Non-Project Files" value="Yellow" />
-    <property name="Tests" value="Green" />
+    <property name="KEYMAP" value="duplicate&#10;tab prev&#10;tab next&#10;delete li" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Workspace/beerlife/target/bower_components/angular-ui-router/release/angular-ui-router.js&#10;/home/raccoon/Workspace/beerlife/target/bower_components/angular/angular.js" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="FindSplitterProportion" value="0.25" />
   </component>
 </application>
