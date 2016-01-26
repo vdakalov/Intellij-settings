@@ -1,0 +1,10 @@
+<keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="control PAGE_DOWN" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="control PAGE_UP" />
+  </action>
+</keymap>
