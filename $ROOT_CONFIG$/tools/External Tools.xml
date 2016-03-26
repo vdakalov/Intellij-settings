@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Meld" description="Utils for file comparison" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="meld" />
+      <option name="PARAMETERS" value="input.yml output.yml" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Workspace/kutrapali" />
+    </exec>
+  </tool>
+</toolSet>

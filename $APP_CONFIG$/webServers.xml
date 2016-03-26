@@ -1,8 +1,12 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ac4a9c63-e2fa-41e6-ab3e-42ee277cffd9" name="frontend" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
+      <webServer id="fa6f5ab1-8dbb-4255-9a40-c1992d0bfcd5" name="rsm-remont" url="http://185.41.160.234">
+        <fileTransfer host="185.41.160.234" port="22" privateKey="$USER_HOME$/.ssh/rsm_remont_rsa" rootFolder="/etc/nginx" accessType="SFTP" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
       </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
